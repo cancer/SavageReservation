@@ -1,3 +1,9 @@
 {
-  "routes": []
+  "routes": [
+    {
+      "routePath": "/field-list/...",
+      "component": "FieldListRoot",
+      "componentPath": "./field-list/field-list-root.component"
+    }
+  ]
 }
